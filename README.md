@@ -1,6 +1,6 @@
-PROJETO INDIVIDUAL
+<h1>PROJETO INDIVIDUAL</h1>
 
-Módulo 4 – Sistema Resilia
+<h4>Módulo 4 – Sistema Resilia
 
 
 ![image](https://user-images.githubusercontent.com/113394226/212433476-6fbdf015-77e7-496a-b746-dce627eb97b5.png)
@@ -13,3 +13,5 @@ Sim, as entidades: FAcilitadores, Matérias e Projetos.
 
 
 ⇨ Como essas entidades estão relacionadas?
+
+  </h4>
