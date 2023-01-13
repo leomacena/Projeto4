@@ -15,7 +15,7 @@ CREATE TABLE `turmas` (
 CREATE TABLE `alunos` (
   `id` int PRIMARY KEY,
   `nome` varchar(100),
-  `cpf` int(11),
+  `cpf` bigint(11),
   `endereco` varchar(175),
   `id_turmas` int(5)
 );
@@ -23,7 +23,7 @@ CREATE TABLE `alunos` (
 CREATE TABLE `facilitadores` (
   `id` int PRIMARY KEY,
   `nome` varchar(100),
-  `cpf` int(11),
+  `cpf` bigint(11),
   `frente` varchar(4)
 );
 
