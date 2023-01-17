@@ -7,13 +7,13 @@
 
 <p></p>
 ⇨ Existem outras entidades além dessas três?
-<br>Sim, as entidades: Facilitadores, Matérias e Projetos.<br>
+<p>Sim, as entidades: Facilitadores, Matérias e Projetos.</p>
 
 ⇨ Quais são os principais campos e tipos?
-<br>ID, Nome, CPF, endereço, frente <br>
+<p>ID, Nome, CPF, endereço, frente </p>
 
 ⇨ Como essas entidades estão relacionadas?
-<br>Estão realcionadas pelo ID.
+ <p>Estão realcionadas pelo ID.</p>
 
  </h4>
 
